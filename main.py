@@ -1,11 +1,11 @@
 import os
 os.system("cls")
-import pyautogui, time, pyttsx3
+import pyautogui, time, pyttsx3, sys
 try:
     reps = int(input("How many times do you want to click? "))
 except:
     print("The entered value is not a number. Please execute the program again.")
-    exit()
+    sys.exit()
 else:
     e = pyttsx3.Engine()
     print("Starting clicks in: ")
