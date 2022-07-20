@@ -1,6 +1,5 @@
-import os
+import pyautogui, time, pyttsx3, sys, os
 os.system("cls")
-import pyautogui, time, pyttsx3, sys
 try:
     reps = int(input("How many times do you want to click? "))
 except:
