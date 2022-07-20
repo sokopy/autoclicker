@@ -1,4 +1,4 @@
-import pyautogui, time, pyttsx3, sys, os
+import pyautogui, pyttsx3, os
 os.system("title Autoclicker")
 os.system("color 9")
 os.system("cls")
