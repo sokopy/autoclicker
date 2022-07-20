@@ -1,9 +1,12 @@
 import pyautogui, time, pyttsx3, sys, os
+os.system("title Autoclicker")
+os.system("color 9")
 os.system("cls")
 try:
     reps = int(input("How many times do you want to click? "))
 except:
-    print("The entered value is not a number. Please execute the program again.")
+    print("The entered value is not a number.")
+    os.system("autoclicker")
     sys.exit()
 else:
     e = pyttsx3.Engine()
