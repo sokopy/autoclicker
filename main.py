@@ -7,13 +7,11 @@ try:
 except:
     print("The entered value is not a number.")
     os.system("autoclicker")
-    sys.exit()
 else:
     e = pyttsx3.Engine()
     print("Starting clicks in: ")
     i=5
     while i>=1:
-        time.sleep(0.05)
         e.say(str(i))
         print(i)
         e.runAndWait()
