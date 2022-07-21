@@ -12,7 +12,8 @@ Dedicado a cierta persona con las siglas GAGA ;)
 
 ![clicks image](./img/clicks.png)
 
-### - A voice will count from 5 to 0 and once the countdown finishes the program will start clicking
+### - Enter the waiting time in seconds
+#### <mark style="background-color: orange;">Please do not skip this step, as the waiting time will let you change between applications and get ready</mark>
 
 ![countdown image](./img/count.png)
 
