@@ -12,10 +12,14 @@ Dedicado a cierta persona con las siglas GAGA ;)
 
 ![clicks image](./img/clicks.png)
 
-### - Enter the waiting time in seconds
+### - Enter the waiting time in seconds and wait for the program to start clicking
 #### <mark style="background-color: orange;">Please do not skip this step, as the waiting time will let you change between applications and get ready</mark>
 
 ![countdown image](./img/count.png)
+
+### Once the program stops clicking, enter "c" if you want it to close or "r" if you want it to restart.
+
+![click or restart](./img/cor.png)
 
 ### - Have fun while cheating at CPS tests!
 
